@@ -1,0 +1,15 @@
+Analytical Tasks:
+    1) Find out the average age of the patients in the dataset.
+    2) Analyze where a majority of the individuals are from.
+    3) Averege costs between smokers vs. non-smokers.
+    4) Male female isurace costs on averege
+    5) Figure out what the average age is for someone who has at least one child in this dataset.
+    6) How number of children correlates with smoking for males and females
+    7) Split the data for male/ female and see price difference for each changing atribute (BMI - below and above averege, smoker/non-smokers, children/no children)
+
+Create a class and functions to answer questions:
+    1) 
+    2)
+    3)
+    4)
+    5) 
