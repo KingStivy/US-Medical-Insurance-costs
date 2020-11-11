@@ -5,11 +5,10 @@ Analytical Tasks:
     4) Male female isurace costs on averege
     5) Figure out what the average age is for someone who has at least one child in this dataset.
     6) How number of children correlates with smoking for males and females
-    7) Split the data for male/ female and see price difference for each changing atribute (BMI - below and above averege, smoker/non-smokers, children/no children)
+    7) Create a new Class to filter for our DataFrame to retrieve exact data. ### InsuranceDataFilter.py
 
-Create a class and functions to answer questions:
-    1) 
-    2)
-    3)
-    4)
-    5) 
+
+
+New class filter can be found in InsuranceDataFilter.py
+
+ 
