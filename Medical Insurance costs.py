@@ -5,6 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
+
 us_insurance_df = pd.read_csv(r"X:\Git HUB\US-Medical-Insurance-costs\insurance.csv") 
 
 """Tasks:
@@ -80,10 +82,11 @@ plt.show()
 
 #### As we can see the number of children does not influence the insurance cost as there is no trend. 
 
-# 7) Split the data for male/ female and see price difference for each changing atribute (BMI - below and above averege, smoker/non-smokers, children/no children)
+# 7) Create a new Class to filter for our DataFrame to retrieve exact data. ### InsuranceDataFilter.py
+
+from InsuranceDataFilter import InsuranceDataFilter 
 
 
 
-
-
+ 
 
